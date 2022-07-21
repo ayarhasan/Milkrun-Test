@@ -134,7 +134,7 @@
             this.btnBoxAccept.Name = "btnBoxAccept";
             this.btnBoxAccept.Size = new System.Drawing.Size(156, 27);
             this.btnBoxAccept.TabIndex = 9;
-            this.btnBoxAccept.Text = "2-Ana Depoya Kutu Kükle";
+            this.btnBoxAccept.Text = "2-Ana Depoya Kutu Yükle";
             this.btnBoxAccept.UseVisualStyleBackColor = true;
             this.btnBoxAccept.Click += new System.EventHandler(this.btnBoxAccept_Click);
             // 
